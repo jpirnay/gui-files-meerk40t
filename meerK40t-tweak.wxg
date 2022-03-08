@@ -224,7 +224,7 @@
                                     <size>58, 58</size>
                                     <tooltip>Move writer position towards top.</tooltip>
                                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8up.png</bitmap>
+                                    <bitmap>.\icons\icons8up.png</bitmap>
                                 </object>
                             </object>
                             <object class="sizeritem">
@@ -245,7 +245,7 @@
                                     <size>58, 58</size>
                                     <tooltip>Move writer position towards left.</tooltip>
                                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-left.png</bitmap>
+                                    <bitmap>.\icons\icons8-left.png</bitmap>
                                 </object>
                             </object>
                             <object class="sizeritem">
@@ -257,7 +257,7 @@
                                     </events>
                                     <tooltip>Set writer position as origin (0,0)</tooltip>
                                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-center-of-gravity-50.png</bitmap>
+                                    <bitmap>.\icons\icons8-center-of-gravity-50.png</bitmap>
                                 </object>
                             </object>
                             <object class="sizeritem">
@@ -270,7 +270,7 @@
                                     <size>58, 58</size>
                                     <tooltip>Move writer position towards right.</tooltip>
                                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-right.png</bitmap>
+                                    <bitmap>.\icons\icons8-right.png</bitmap>
                                 </object>
                             </object>
                             <object class="sizeritem">
@@ -291,7 +291,7 @@
                                     <size>58, 58</size>
                                     <tooltip>Move writer position towards bottom.</tooltip>
                                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-down.png</bitmap>
+                                    <bitmap>.\icons\icons8-down.png</bitmap>
                                 </object>
                             </object>
                             <object class="sizeritem">
@@ -312,7 +312,7 @@
                                     <size>58, 58</size>
                                     <tooltip>Flush buffers to empty.</tooltip>
                                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-goal-50.png</bitmap>
+                                    <bitmap>.\icons\icons8-goal-50.png</bitmap>
                                 </object>
                             </object>
                             <object class="sizeritem">
@@ -324,7 +324,7 @@
                                     </events>
                                     <tooltip>Safely exit current job, purge the spooler.</tooltip>
                                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-delete-50.png</bitmap>
+                                    <bitmap>.\icons\icons8-delete-50.png</bitmap>
                                 </object>
                             </object>
                             <object class="sizeritem">
@@ -337,7 +337,7 @@
                                     <size>58, 58</size>
                                     <tooltip>Emergency Stop. Kill all buffers stop at this location.</tooltip>
                                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-stop-sign-50.png</bitmap>
+                                    <bitmap>.\icons\icons8-stop-sign-50.png</bitmap>
                                 </object>
                             </object>
                         </object>

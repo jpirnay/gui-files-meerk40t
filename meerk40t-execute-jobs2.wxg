@@ -224,7 +224,7 @@
                                 </font>
                                 <tooltip>Start the Laser Job</tooltip>
                                 <label>Start</label>
-                                <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons8-choose-font-50.png</bitmap>
+                                <bitmap>.\icons8-choose-font-50.png</bitmap>
                             </object>
                         </object>
                     </object>

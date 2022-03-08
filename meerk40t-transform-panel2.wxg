@@ -24,7 +24,7 @@
                             </events>
                             <tooltip>Scale Down</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap>
+                            <bitmap>.\icons\icons8-usb-connector-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -36,7 +36,7 @@
                             </events>
                             <tooltip>Translate Top</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap>
+                            <bitmap>.\icons\icons8-usb-connector-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -48,7 +48,7 @@
                             </events>
                             <tooltip>Scale Up</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap>
+                            <bitmap>.\icons\icons8-usb-connector-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -60,7 +60,7 @@
                             </events>
                             <tooltip>Translate Left</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap>
+                            <bitmap>.\icons\icons8-usb-connector-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -72,7 +72,7 @@
                             </events>
                             <tooltip>Reset Matrix</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap>
+                            <bitmap>.\icons\icons8-usb-connector-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -84,7 +84,7 @@
                             </events>
                             <tooltip>Translate Right</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap>
+                            <bitmap>.\icons\icons8-usb-connector-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -96,7 +96,7 @@
                             </events>
                             <tooltip>Rotate Counterclockwise</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap>
+                            <bitmap>.\icons\icons8-usb-connector-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -108,7 +108,7 @@
                             </events>
                             <tooltip>Translate Bottom</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap>
+                            <bitmap>.\icons\icons8-usb-connector-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -120,7 +120,7 @@
                             </events>
                             <tooltip>Rotate Clockwise</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap>
+                            <bitmap>.\icons\icons8-usb-connector-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">

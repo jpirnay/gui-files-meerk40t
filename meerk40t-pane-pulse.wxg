@@ -16,7 +16,7 @@
                     </events>
                     <tooltip>Fire a short laser pulse</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-laser-beam-52.png</bitmap>
+                    <bitmap>.\icons\icons8-laser-beam-52.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">

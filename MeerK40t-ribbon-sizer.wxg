@@ -77,7 +77,7 @@
                                     <handler event="EVT_BUTTON">on_button_aspect_ratio</handler>
                                 </events>
                                 <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                                <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons8-choose-font-50.png</bitmap>
+                                <bitmap>.\icons8-choose-font-50.png</bitmap>
                             </object>
                         </object>
                         <object class="sizeritem">

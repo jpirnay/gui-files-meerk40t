@@ -198,7 +198,7 @@
                                     <events>
                                         <handler event="EVT_BUTTON">on_button_play</handler>
                                     </events>
-                                    <bitmap>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap>
+                                    <bitmap>.\icons\icons8-usb-connector-50.png</bitmap>
                                 </object>
                             </object>
                             <object class="sizeritem">
@@ -284,7 +284,7 @@
                                                 <face>Segoe UI</face>
                                             </font>
                                             <label>Send to Laser</label>
-                                            <bitmap>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap>
+                                            <bitmap>.\icons\icons8-usb-connector-50.png</bitmap>
                                         </object>
                                     </object>
                                 </object>

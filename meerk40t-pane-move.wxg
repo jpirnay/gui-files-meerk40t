@@ -16,7 +16,7 @@
                     </events>
                     <tooltip>Move to the set position</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-center-of-gravity-50.png</bitmap>
+                    <bitmap>.\icons\icons8-center-of-gravity-50.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">

@@ -27,7 +27,7 @@
                     <type>0</type>
                     <short_help>Open new project</short_help>
                     <long_help />
-                    <bitmap1>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap1>
+                    <bitmap1>.\icons\icons8-usb-connector-50.png</bitmap1>
                     <bitmap2 />
                     <handler>on_toobar_open</handler>
                 </tool>
@@ -37,7 +37,7 @@
                     <type>0</type>
                     <short_help>Saves a project to disk</short_help>
                     <long_help />
-                    <bitmap1>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap1>
+                    <bitmap1>.\icons\icons8-usb-connector-50.png</bitmap1>
                     <bitmap2 />
                     <handler>on_toolbar_save</handler>
                 </tool>
@@ -56,7 +56,7 @@
                     <type>0</type>
                     <short_help>Execute the current laser project</short_help>
                     <long_help />
-                    <bitmap1>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap1>
+                    <bitmap1>.\icons\icons8-usb-connector-50.png</bitmap1>
                     <bitmap2 />
                     <handler>on_toolbar_execute_jbo</handler>
                 </tool>
@@ -66,7 +66,7 @@
                     <type>1</type>
                     <short_help>Simulate the current laser job</short_help>
                     <long_help />
-                    <bitmap1>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap1>
+                    <bitmap1>.\icons\icons8-usb-connector-50.png</bitmap1>
                     <bitmap2 />
                     <handler>on_toolbar_simulate</handler>
                 </tool>
@@ -85,7 +85,7 @@
                     <type>0</type>
                     <short_help>Run RasterWizard </short_help>
                     <long_help />
-                    <bitmap1>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap1>
+                    <bitmap1>.\icons\icons8-usb-connector-50.png</bitmap1>
                     <bitmap2 />
                     <handler>on_toolbar_window_rasterwizard</handler>
                 </tool>
@@ -95,7 +95,7 @@
                     <type>0</type>
                     <short_help>Open Notes Window</short_help>
                     <long_help />
-                    <bitmap1>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap1>
+                    <bitmap1>.\icons\icons8-usb-connector-50.png</bitmap1>
                     <bitmap2 />
                     <handler>on_toolbar_notes_window</handler>
                 </tool>
@@ -105,7 +105,7 @@
                     <type>0</type>
                     <short_help>Open Console Window</short_help>
                     <long_help />
-                    <bitmap1>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap1>
+                    <bitmap1>.\icons\icons8-usb-connector-50.png</bitmap1>
                     <bitmap2 />
                     <handler>on_toolbar_console_window</handler>
                 </tool>
@@ -120,7 +120,7 @@
                 <type>0</type>
                 <short_help>Opens The Navigation Window</short_help>
                 <long_help />
-                <bitmap1>C:\Users\Tat\PycharmProjects\icons8-usb-connector-50.png</bitmap1>
+                <bitmap1>.\icons\icons8-usb-connector-50.png</bitmap1>
                 <bitmap2 />
                 <handler>on_toolbar_navigation_window</handler>
             </tool>

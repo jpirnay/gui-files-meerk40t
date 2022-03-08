@@ -18,7 +18,7 @@
                     </events>
                     <tooltip>Align laser with the upper left corner of the selection</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icon-corner1.png</bitmap>
+                    <bitmap>.\icon-corner1.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -30,7 +30,7 @@
                     </events>
                     <tooltip>Move laser in the up direction, dragging the selected project</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8up.png</bitmap>
+                    <bitmap>.\icons\icons8up.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -42,7 +42,7 @@
                     </events>
                     <tooltip>Align laser with the upper right corner of the selection</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icon-corner2.png</bitmap>
+                    <bitmap>.\icon-corner2.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -54,7 +54,7 @@
                     </events>
                     <tooltip>Move laser in the left direction, dragging the selected project</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-left.png</bitmap>
+                    <bitmap>.\icons\icons8-left.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -66,7 +66,7 @@
                     </events>
                     <tooltip>Align laser with the center of the selection</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons8-square-border-50.png</bitmap>
+                    <bitmap>.\icons8-square-border-50.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -78,7 +78,7 @@
                     </events>
                     <tooltip>Move laser in the right direction, dragging the selected project</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-right.png</bitmap>
+                    <bitmap>.\icons\icons8-right.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -90,7 +90,7 @@
                     </events>
                     <tooltip>Align laser with the lower left corner of the selection</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icon-corner4.png</bitmap>
+                    <bitmap>.\icon-corner4.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -102,7 +102,7 @@
                     </events>
                     <tooltip>Move laser in the down direction, dragging the selected project</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-down.png</bitmap>
+                    <bitmap>.\icons\icons8-down.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -114,7 +114,7 @@
                     </events>
                     <tooltip>Align laser with the lower right corner of the selection</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icon-corner3.png</bitmap>
+                    <bitmap>.\icon-corner3.png</bitmap>
                 </object>
             </object>
             <object class="sizerslot" />
@@ -127,7 +127,7 @@
                     </events>
                     <tooltip>Perform a convex hull trace of the selection</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons8-pentagon-50.png</bitmap>
+                    <bitmap>.\icons8-pentagon-50.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -139,7 +139,7 @@
                     </events>
                     <tooltip>Perform a simple trace of the selection</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons8-pentagon-square-50.png</bitmap>
+                    <bitmap>.\icons8-pentagon-square-50.png</bitmap>
                 </object>
             </object>
         </object>

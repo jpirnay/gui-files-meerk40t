@@ -236,7 +236,7 @@
                                 <face>Segoe UI</face>
                             </font>
                             <label>Start Job</label>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons\icons8-play-50.png</bitmap>
+                            <bitmap>.\icons\icons8-play-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">

@@ -34,7 +34,7 @@
                         <object class="wxBitmapButton" name="bitmap_button_1" base="EditBitmapButton">
                             <size>108, 108</size>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-stop-sign-50.png</bitmap>
+                            <bitmap>.\icons\icons8-stop-sign-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -42,7 +42,7 @@
                         <border>0</border>
                         <object class="wxBitmapButton" name="bitmap_button_2" base="EditBitmapButton">
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\meerk40t.jpg</bitmap>
+                            <bitmap>.\icons\meerk40t.jpg</bitmap>
                         </object>
                     </object>
                 </object>

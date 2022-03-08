@@ -63,7 +63,7 @@
                         <face>Segoe UI</face>
                     </font>
                     <label>Connection</label>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t-64\meerk40t.ico</bitmap>
+                    <bitmap>.\icons\meerk40t-64\meerk40t.ico</bitmap>
                 </object>
             </object>
             <object class="sizeritem">

@@ -18,7 +18,7 @@
                     </events>
                     <tooltip>Move laser diagonally in the up and left direction</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons8-up-left-50.png</bitmap>
+                    <bitmap>.\icons8-up-left-50.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -30,7 +30,7 @@
                     </events>
                     <tooltip>Move laser in the up direction</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons8-up-50.png</bitmap>
+                    <bitmap>.\icons8-up-50.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -42,7 +42,7 @@
                     </events>
                     <tooltip>Move laser diagonally in the up and right direction</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons8-up-right-50.png</bitmap>
+                    <bitmap>.\icons8-up-right-50.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -54,7 +54,7 @@
                     </events>
                     <tooltip>Move laser in the left direction</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons8-left-50.png</bitmap>
+                    <bitmap>.\icons8-left-50.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -65,7 +65,7 @@
                         <handler event="EVT_BUTTON">on_button_navigate_home</handler>
                     </events>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-home-filled-50.png</bitmap>
+                    <bitmap>.\icons\icons8-home-filled-50.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -77,7 +77,7 @@
                     </events>
                     <tooltip>Move laser in the right direction</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons8-right-50.png</bitmap>
+                    <bitmap>.\icons8-right-50.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -89,7 +89,7 @@
                     </events>
                     <tooltip>Move laser diagonally in the down and left direction</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons8-down-left-50.png</bitmap>
+                    <bitmap>.\icons8-down-left-50.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -101,7 +101,7 @@
                     </events>
                     <tooltip>Move laser in the down direction</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons8-down-50.png</bitmap>
+                    <bitmap>.\icons8-down-50.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -113,7 +113,7 @@
                     </events>
                     <tooltip>Move laser diagonally in the down and right direction</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons8-down-right-50.png</bitmap>
+                    <bitmap>.\icons8-down-right-50.png</bitmap>
                 </object>
             </object>
             <object class="sizeritem">
@@ -125,7 +125,7 @@
                     </events>
                     <tooltip>Unlock the laser rail</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-padlock-50.png</bitmap>
+                    <bitmap>.\icons\icons8-padlock-50.png</bitmap>
                 </object>
             </object>
             <object class="sizerslot" />
@@ -138,7 +138,7 @@
                     </events>
                     <tooltip>Lock the laser rail</tooltip>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-lock-50.png</bitmap>
+                    <bitmap>.\icons\icons8-lock-50.png</bitmap>
                 </object>
             </object>
         </object>

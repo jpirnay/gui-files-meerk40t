@@ -84,7 +84,7 @@
                             </events>
                             <tooltip>Update Image</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-camera-50.png</bitmap>
+                            <bitmap>.\icons\icons8-camera-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -96,7 +96,7 @@
                             </events>
                             <tooltip>Export Snapsnot</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-save-50.png</bitmap>
+                            <bitmap>.\icons\icons8-save-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -108,7 +108,7 @@
                             </events>
                             <tooltip>Reconnect Camera</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons8-choose-font-50.png</bitmap>
+                            <bitmap>.\icons8-choose-font-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -161,7 +161,7 @@
                             </events>
                             <tooltip>Detect Distortions/Calibration</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-detective-50.png</bitmap>
+                            <bitmap>.\icons\icons8-detective-50.png</bitmap>
                         </object>
                     </object>
                 </object>

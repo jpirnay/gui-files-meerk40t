@@ -30,7 +30,7 @@
                         <handler event="EVT_BUTTON">on_clicked_burn</handler>
                     </events>
                     <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                    <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\icons\icons8-gas-industry-50.png</bitmap>
+                    <bitmap>.\icons\icons8-gas-industry-50.png</bitmap>
                 </object>
             </object>
         </object>

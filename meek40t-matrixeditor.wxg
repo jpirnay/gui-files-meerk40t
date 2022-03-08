@@ -102,7 +102,7 @@
                                 <handler event="EVT_BUTTON">on_scale_down</handler>
                             </events>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-compress-50.png</bitmap>
+                            <bitmap>.\icons\icons8-compress-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -113,7 +113,7 @@
                                 <handler event="EVT_BUTTON">on_translate_up</handler>
                             </events>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-up-50.png</bitmap>
+                            <bitmap>.\icons\icons8-up-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -124,7 +124,7 @@
                                 <handler event="EVT_BUTTON">on_scale_up</handler>
                             </events>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-enlarge-50.png</bitmap>
+                            <bitmap>.\icons\icons8-enlarge-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -135,7 +135,7 @@
                                 <handler event="EVT_BUTTON">on_translate_left</handler>
                             </events>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-left-50.png</bitmap>
+                            <bitmap>.\icons\icons8-left-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -146,7 +146,7 @@
                                 <handler event="EVT_BUTTON">on_reset</handler>
                             </events>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-delete-50.png</bitmap>
+                            <bitmap>.\icons\icons8-delete-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -157,7 +157,7 @@
                                 <handler event="EVT_BUTTON">on_translate_right</handler>
                             </events>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-right-50.png</bitmap>
+                            <bitmap>.\icons\icons8-right-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -168,7 +168,7 @@
                                 <handler event="EVT_BUTTON">on_rotate_ccw</handler>
                             </events>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-rotate-left-50.png</bitmap>
+                            <bitmap>.\icons\icons8-rotate-left-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -179,7 +179,7 @@
                                 <handler event="EVT_BUTTON">on_translate_down</handler>
                             </events>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-down-50.png</bitmap>
+                            <bitmap>.\icons\icons8-down-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -190,7 +190,7 @@
                                 <handler event="EVT_BUTTON">on_rotate_cw</handler>
                             </events>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t\gui\icons\icons8-rotate-right-50.png</bitmap>
+                            <bitmap>.\icons\icons8-rotate-right-50.png</bitmap>
                         </object>
                     </object>
                 </object>

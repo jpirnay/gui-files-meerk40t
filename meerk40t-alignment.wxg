@@ -37,7 +37,7 @@
                             </events>
                             <tooltip>Perform vertical near-far alignment test</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t-master\icons\icons8-resize-vertical-50.png</bitmap>
+                            <bitmap>.\icons\icons8-resize-vertical-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -58,7 +58,7 @@
                             <background>#808080</background>
                             <tooltip>Perform a vertical line alignment test</tooltip>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t-master\icons\icons8-resize-vertical-50.png</bitmap>
+                            <bitmap>.\icons\icons8-resize-vertical-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -167,7 +167,7 @@
                             <tooltip>Perform horizontal near-far alignment test</tooltip>
                             <disabled>1</disabled>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t-master\icons\icons8-resize-horizontal-50.png</bitmap>
+                            <bitmap>.\icons\icons8-resize-horizontal-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -189,7 +189,7 @@
                             <tooltip>Perform horizontal line alignment test</tooltip>
                             <disabled>1</disabled>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t-master\icons\icons8-resize-horizontal-50.png</bitmap>
+                            <bitmap>.\icons\icons8-resize-horizontal-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -293,7 +293,7 @@
                             <tooltip>Perform square confirmation test</tooltip>
                             <disabled>1</disabled>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t-master\icons\icons8-stop-50.png</bitmap>
+                            <bitmap>.\icons\icons8-stop-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
@@ -315,7 +315,7 @@
                             <tooltip>Perform square confirmation test</tooltip>
                             <disabled>1</disabled>
                             <style>wxBU_AUTODRAW|wxBU_EXACTFIT|wxBU_NOTEXT</style>
-                            <bitmap>C:\Users\Tat\PycharmProjects\meerk40t-master\icons\icons8-stop-50.png</bitmap>
+                            <bitmap>.\icons\icons8-stop-50.png</bitmap>
                         </object>
                     </object>
                     <object class="sizeritem">
